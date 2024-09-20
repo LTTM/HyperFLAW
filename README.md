@@ -1,6 +1,6 @@
 # When Cars meet Drones: Hyperbolic Federated Learning for Source-Free Domain Adaptation in Adverse Weather
 
-**Official implementation** of the paper "[When Cars meet Drones: Hyperbolic Federated Learning for Source-Free Domain Adaptation in Adverse Weather](https://arxiv.org/abs/2403.13762)".
+**Official implementation** of the paper "[When Cars meet Drones: Hyperbolic Federated Learning for Source-Free Domain Adaptation in Adverse Weather](https://arxiv.org/abs/2403.13762)" accepted at WACV 2025.
 
 ![Paper teaser](extras/teaser.png)
 
@@ -234,10 +234,11 @@ To re-run the experiments reported in the paper, you can use the provided config
 If you find this work useful, please cite us:
 
 ```bibtex
-@article{rizzoli2024cars,
+@inproceedings{rizzoli2024cars,
     title={When Cars meet Drones: Hyperbolic Federated Learning for Source-Free Domain Adaptation in Adverse Weather},
     author={Rizzoli, Giulia and Caligiuri, Matteo and Shenaj, Donald and Barbato, Francesco and Zanuttigh, Pietro},
-    journal={arXiv preprint arXiv:2403.13762},
-    year={2024}
+    booktitle={Winter Conference on Applications of Computer Vision (WACV)},
+    year={2025},
+    organization={IEEE} 
 }
 ```
