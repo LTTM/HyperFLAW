@@ -1,0 +1,17 @@
+rgb/rain/test/00007.png gt/rain/test/00007.png
+rgb/rain/test/00008.png gt/rain/test/00008.png
+rgb/rain/test/00009.png gt/rain/test/00009.png
+rgb/rain/test/00015.png gt/rain/test/00015.png
+rgb/rain/test/00017.png gt/rain/test/00017.png
+rgb/rain/test/00020.png gt/rain/test/00020.png
+rgb/rain/test/00040.png gt/rain/test/00040.png
+rgb/rain/test/00041.png gt/rain/test/00041.png
+rgb/rain/test/00042.png gt/rain/test/00042.png
+rgb/rain/test/00043.png gt/rain/test/00043.png
+rgb/rain/test/00044.png gt/rain/test/00044.png
+rgb/rain/test/00045.png gt/rain/test/00045.png
+rgb/rain/test/00047.png gt/rain/test/00047.png
+rgb/rain/test/00048.png gt/rain/test/00048.png
+rgb/rain/test/00049.png gt/rain/test/00049.png
+rgb/rain/test/00060.png gt/rain/test/00060.png
+rgb/rain/test/00061.png gt/rain/test/00061.png

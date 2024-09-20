@@ -1,0 +1,17 @@
+rgb/fog/test/00003.png gt/fog/test/00003.png
+rgb/fog/test/00012.png gt/fog/test/00012.png
+rgb/fog/test/00018.png gt/fog/test/00018.png
+rgb/fog/test/00019.png gt/fog/test/00019.png
+rgb/fog/test/00021.png gt/fog/test/00021.png
+rgb/fog/test/00022.png gt/fog/test/00022.png
+rgb/fog/test/00023.png gt/fog/test/00023.png
+rgb/fog/test/00024.png gt/fog/test/00024.png
+rgb/fog/test/00025.png gt/fog/test/00025.png
+rgb/fog/test/00026.png gt/fog/test/00026.png
+rgb/fog/test/00027.png gt/fog/test/00027.png
+rgb/fog/test/00036.png gt/fog/test/00036.png
+rgb/fog/test/00046.png gt/fog/test/00046.png
+rgb/fog/test/00050.png gt/fog/test/00050.png
+rgb/fog/test/00053.png gt/fog/test/00053.png
+rgb/fog/test/00057.png gt/fog/test/00057.png
+rgb/fog/test/00058.png gt/fog/test/00058.png
