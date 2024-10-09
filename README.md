@@ -242,3 +242,15 @@ If you find this work useful, please cite us:
     organization={IEEE} 
 }
 ```
+
+If you use one of ours dataset please cite also:
+
+```bibtex
+@inproceedings{rizzoli2023syndrone,
+    title={Syndrone-multi-modal uav dataset for urban scenarios},
+    author={Rizzoli, Giulia and Barbato, Francesco and Caligiuri, Matteo and Zanuttigh, Pietro},
+    booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+    pages={2210--2220},
+    year={2023}
+}
+```
