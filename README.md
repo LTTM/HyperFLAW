@@ -219,6 +219,9 @@ To re-run the experiments reported in the paper, you can use the provided config
 > [!NOTE]
 > Remember that if you need in the [`checkpoints`](./checkpoints) you can find the checkpoint for both the pre-train and the complete model.
 
+> [!NOTE]
+> For the adaptation phase in the [`classsifier_model`](./02_adaptation/data/classifier_model/) folder you can find the pretrained weather classifier model. If you want to train it from scratch you can use the provided code in the [`weather_classifier`](./00_weather_classifier) folder following the relative [`README`](./00_weather_classifier/README.md) file.
+
 ### Run the code with a custom configuration
 
 1. Create a new config file (```.txt```) where each line corresponds to a parameter in the following format: ```parameter_name=parameter_value```.
