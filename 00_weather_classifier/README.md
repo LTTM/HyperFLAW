@@ -2,7 +2,7 @@
 
 ## Overview
 
-This module allows you to train and test the weather classifier used in the [HyperFLAW](./) project. The classifier is designed to categorize weather conditions based on input data.
+This module allows you to train and test the weather classifier used in the [HyperFLAW](../) project. The classifier is designed to categorize weather conditions based on input data.
 
 ## Installation
 
